@@ -1,4 +1,4 @@
-# THIS PROJECT IS FORK FROM [nordnet/cordova-hot-code-push-cli](https://github.com/nordnet/cordova-hot-code-push-cli)
+# THIS PROJECT IS FORKED FROM [snipking/cordova-hot-code-push-cli](https://github.com/snip/cordova-hot-code-push-cli)
 
 Because the origin project is stopped maintenance. We forked and do bug fix on this. PRs and ISSUEs welcome.
 
@@ -36,7 +36,7 @@ npm install -g cordova-hot-code-push-cli
 
 It is also possible to install via repo url directly (__unstable__):
 ```sh
-npm install -g https://github.com/nordnet/cordova-hot-code-push-cli.git
+npm install -g https://github.com/glennra/cordova-hot-code-push-cli.git
 ```
 
 ### How to use
